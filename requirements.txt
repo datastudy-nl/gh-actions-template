@@ -1,2 +1,3 @@
 Flask
 Flask-Cors
+git+https://github.com/datastudy-nl/datastudy-commons.git
